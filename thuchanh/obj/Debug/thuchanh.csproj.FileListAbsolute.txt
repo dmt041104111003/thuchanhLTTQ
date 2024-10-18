@@ -1,0 +1,11 @@
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.AssemblyReference.cache
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.Form1.resources
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.Properties.Resources.resources
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.GenerateResource.cache
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.CoreCompileInputs.cache
+E:\bt lập trình trực quan\thuchanh\thuchanh\bin\Debug\thuchanh.exe.config
+E:\bt lập trình trực quan\thuchanh\thuchanh\bin\Debug\thuchanh.exe
+E:\bt lập trình trực quan\thuchanh\thuchanh\bin\Debug\thuchanh.pdb
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.frmHang.resources
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.exe
+E:\bt lập trình trực quan\thuchanh\thuchanh\obj\Debug\thuchanh.pdb

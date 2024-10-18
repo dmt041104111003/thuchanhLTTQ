@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\frmhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\frmhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|e:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB1ED95-128B-4B8A-BA08-DB77598EB770}|thuchanh\\thuchanh.csproj|solutionrelative:thuchanh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHang.cs [Design]",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.cs",
+              "RelativeDocumentMoniker": "thuchanh\\frmHang.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.cs [Design]",
+              "RelativeToolTip": "thuchanh\\frmHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:17:54.366Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHang.Designer.cs",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.Designer.cs",
+              "RelativeDocumentMoniker": "thuchanh\\frmHang.Designer.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.Designer.cs",
+              "RelativeToolTip": "thuchanh\\frmHang.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwDwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:18:47.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHang.cs",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.cs",
+              "RelativeDocumentMoniker": "thuchanh\\frmHang.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\frmHang.cs",
+              "RelativeToolTip": "thuchanh\\frmHang.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAIYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:18:01.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "thuchanh\\Form1.Designer.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.Designer.cs",
+              "RelativeToolTip": "thuchanh\\Form1.Designer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:15:18.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.cs",
+              "RelativeDocumentMoniker": "thuchanh\\Form1.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.cs",
+              "RelativeToolTip": "thuchanh\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:15:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.cs",
+              "RelativeDocumentMoniker": "thuchanh\\Form1.cs",
+              "ToolTip": "E:\\bt l\u1EADp tr\u00ECnh tr\u1EF1c quan\\thuchanh\\thuchanh\\Form1.cs [Design]",
+              "RelativeToolTip": "thuchanh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:11:47.06Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
